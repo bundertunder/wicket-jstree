@@ -1,0 +1,1 @@
+Wicket component to use jQuery based jstree
